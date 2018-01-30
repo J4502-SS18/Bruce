@@ -1,2 +1,1 @@
 # Bruce
-my class repository
